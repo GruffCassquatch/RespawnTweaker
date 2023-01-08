@@ -1,6 +1,6 @@
 # Respawn Tweaker
 
-FOR GAME VERSION 2.00 / 2.02 (**PRE TALES FROM THE FAR TERRITORY**)    
+FOR GAME VERSION 2.01 / 2.02 (**PRE TALES FROM THE FAR TERRITORY**)    
 Allows you to tweak the respawn rates of wildlife.
 
 NOTE: This mod was made to help someone out, I am not maintaining it and it has only had the most basic testing.
